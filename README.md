@@ -8,6 +8,6 @@
 
 **Ping paraméterek:** 10 próba legyen
 
-##Kimeneti fájlok:
+## Kimeneti fájlok:
 - traceroute.json
 - ping.json
